@@ -9,7 +9,7 @@
 
 > Vous pouvez télécharger le plugin directement depuis la page GitHub.  
 > Le code source est également disponible si vous souhaitez l'examiner en profondeur.  
-> [**Télécharger le plugin**]()
+> [**Télécharger le plugin**](https://github.com/lllaaakkkkiii/PointsUtils/releases/tag/Latest)
 
 ---
 
