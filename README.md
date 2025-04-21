@@ -33,7 +33,7 @@
 > **ou**
 > - Faites une *Pull Request* sur GitHub
 
-> Merci de respecter le travail de tous les développeurs qui y ont passé du temps.
+> Merci de respecter le travail fait sur ce plugin.
 
 ---
 
