@@ -1,7 +1,7 @@
 # 🔵 PointsUtils
 
 > **PointUtils** a été développé pour permettre aux serveurs de **simplifier** la création de toutes sortes de points.  
-> Ce Plugin possède divers sortes de points partagés par les autres développeurs.
+> Ce Plugin possède divers sortes de points.
 
 ---
 
