@@ -39,5 +39,5 @@
 
 ## 🛠️ Changelog
 
-> ### Version : `v0.0.1-pre-alpha` — 21 avril 2025  
+> ### Version : `v1.0.0` — 15 novembre 2025  
 > **État :** Développement des fonctionnalités principales – Stable
